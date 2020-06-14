@@ -7,7 +7,7 @@ Récupère les e-mails des utilisateurs ayant posté avec un certain hashtag et 
 - Python 3
 
 ### Variables :
-- Hashtag ([TAG])(https://github.com/SammuelJ/IG_Email_scrapper/blob/master/ig_scrap.py#L15) - default 'fitness'
+- Hashtag ([TAG](https://github.com/SammuelJ/IG_Email_scrapper/blob/master/ig_scrap.py#L15)) - default 'fitness'
 - Nombre minimum de followers ([MIN_FOLLOWERS](https://github.com/SammuelJ/IG_Email_scrapper/blob/master/ig_scrap.py#L16)) - default '10'
 
 ### Lancement
