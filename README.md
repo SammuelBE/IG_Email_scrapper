@@ -1,5 +1,6 @@
 # Instagram Email Scrapper
 Récupère les e-mails des utilisateurs ayant posté avec un certain hashtag et inscrit les e-mails dans un fichier csv.
+__For Educational Purposes Only__
 
 ### Requis :
 - Sessions IDs 
